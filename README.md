@@ -35,7 +35,8 @@ Welcome to my LeetCode solutions repository! This repo contains my solutions to 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/rkamra-1404/leetcode-solutions.git
-  ```
+   ```
+   
 2. Navigate to the relevant category and open the Swift file for the solution you're interested in.
 
 📝 Code Structure
