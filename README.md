@@ -7,28 +7,11 @@ Welcome to my LeetCode solutions repository! This repo contains my solutions to 
 
 ### ✅ Easy
 
-- **Array**
-  - [Two Sum](Easy/Array/two-sum.swift)
-- **String**
-  - [Is Palindrome](Easy/String/is-palindrome.swift)
-- **Hashing**
-  - [Contains Duplicate](Easy/Hashing/contains-duplicate.swift)
-
 ### 🚧 Medium
-
-- **Linked List**
-  - [Add Two Numbers](Medium/LinkedList/add-two-numbers.swift)
-- **Array**
-  - [3Sum](Medium/Array/three-sum.swift)
-- **Sliding Window**
-  - [Longest Substring Without Repeating Characters](Medium/SlidingWindow/longest-substring-without-repeating.swift)
 - **Graph**
   - [Course Schedule](Medium/Graph/course-schedule.swift)
 
 ### 🧨 Hard
-
-- **Heap**
-  - [Merge K Sorted Lists](Hard/Heap/merge-k-sorted-lists.swift)
 
 ## 🛠️ How to Use
 
