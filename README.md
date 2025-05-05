@@ -23,7 +23,7 @@ Welcome to my LeetCode solutions repository! This repo contains my solutions to 
 - **Sliding Window**
   - [Longest Substring Without Repeating Characters](Medium/SlidingWindow/longest-substring-without-repeating.swift)
 - **Graph**
-  - [Course Schedule](Medium/SlidingWindow/longest-substring-without-repeating.swift)
+  - [Course Schedule](Medium/Graph/course-schedule.swift)
 
 ### 🧨 Hard
 
